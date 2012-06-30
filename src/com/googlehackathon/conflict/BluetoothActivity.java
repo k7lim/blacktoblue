@@ -102,6 +102,9 @@ public class BluetoothActivity extends Activity {
             byte[] byteString = (msg + " ").getBytes();
             byteString[byteString.length - 1] = 0;
             outStream.write(byteString);
+            outStream.flush();
+            outStream.close();
+            
         } catch (IOException e) {
             Log.d("BLUETOOTH_COMMS", e.getMessage());
         }
@@ -232,7 +235,7 @@ public class BluetoothActivity extends Activity {
         }
 
         public void run() {
-            textView.setText(message);
+            textView.append(message + "\n");
         }
     }
 
