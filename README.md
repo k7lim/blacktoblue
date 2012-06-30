@@ -24,7 +24,7 @@ Installation instructions:
 
 1. Please go to the "Downloads" link and download the latest .APK to 2 Android devices
 
-2. Pair them using bluetooth (in future iterations, we can use Android BT methods to get around this barrier)
+2. Pair the 2 phones by going to the bluetooth menu from the setting menu of your phone (in future iterations, we can use Android BT methods to get around this barrier)
 
 3. On each device, click the top button to make the device connectable
 
