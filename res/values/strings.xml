@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ConflictReportingActivity!</string>
+    <string name="app_name">ConflictReporting</string>
+    <string name="take_photo">Click here to take a photo.</string>
+    <string name="search_for_listener">Search for listener</string>
+    <string name="listen_for_connection">Listen for connection</string>
+    
+</resources>
