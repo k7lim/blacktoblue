@@ -16,8 +16,8 @@ Next steps:
 - Integrate with a general data store (in the event that the regime blocks Google.com)
 - Increase robustness with intermittent network (sendEventually methods)
 - More "carrying the bucket" for peers : I want to post, but lack a connection, I can hand my posts to a trusted individual (e.g. a journalist) and know that my message will reach the net eventually.
-- Photos with EXIF meta data will be automatically pinned on Panoramio to show where the incident occurred 
-- Instant encryption of photos/text taken by the blacktoblue, which will be decrypted by a safe server
+- Photos with EXIF meta data will be streamed on Panoramio to show where the incident occurred 
+- Instant encryption of photos/text to protect the user 
 
 Installation instructions:
 
