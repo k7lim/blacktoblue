@@ -5,7 +5,7 @@ Peer information sharing and reporting
 
 Goal: To allow citizens to communicate and report incidents in intuitive ways, even when internet and telephony has been severed by a repressive regime.
 
-Key Data points: Reports done by Google show that the rates of smartphone adoption in "not free" middle eastern nations (UAE, Egypt) is huge, trumping even those in the US.  
+Key Data points: Reports done by Google show that the rates of smartphone adoption in "not free" Middle Eastern nations (UAE, Egypt) is huge, trumping even those in the US.  
 
 So Instead of imposing a new type of communication technology, our aim is to supplement existing social network and chat services with peer-to-peer, serverless and internet-independent redundancies.
 
@@ -16,6 +16,8 @@ Next steps:
 - Integrate with a general data store (in the event that the regime blocks Google.com)
 - Increase robustness with intermittent network (sendEventually methods)
 - More "carrying the bucket" for peers : I want to post, but lack a connection, I can hand my posts to a trusted individual (e.g. a journalist) and know that my message will reach the net eventually.
+- Photos with EXIF meta data will be automatically pinned on Panoramio to show where the incident occurred 
+- Instant encryption of photos/text taken by the blacktoblue, which will be decrypted by a safe server
 
 Installation instructions:
 
