@@ -18,7 +18,7 @@ Next steps:
 - More "carrying the bucket" for peers : I want to post, but lack a connection, I can hand my posts to a trusted individual (e.g. a journalist) and know that my message will reach the net eventually.
 - Photos with EXIF meta data will be streamed on Panoramio to show where the incident occurred 
 - Instant encryption of photos/text to protect the user 
-- Incorporate "Pirate Boxes" (http://wiki.daviddarts.com/PirateBox) to increase bandwidth/range as well as have a repository of emergency files/apps in case of a internet blackout 
+- Incorporate "Pirate Boxes" (http://wiki.daviddarts.com/PirateBox) to increase bandwidth/range as well as have a repository of emergency files/apps in case of an internet blackout 
 
 Installation instructions:
 
