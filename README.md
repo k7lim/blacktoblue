@@ -18,10 +18,17 @@ Next steps:
 - More "carrying the bucket" for peers : I want to post, but lack a connection, I can hand my posts to a trusted individual (e.g. a journalist) and know that my message will reach the net eventually.
 
 Installation instructions:
+
 1. Please go to the "Downloads" link and download the latest .APK to 2 Android devices
+
 2. Pair them using bluetooth (in future iterations, we can use Android BT methods to get around this barrier)
+
 3. On each device, click the top button to make the device connectable
+
 4. On each device, click the bottom button to search for a connection to the other
+
 5. On each device, you'll see a MAC address of the other device, click on it to connect.
+
 6. Once the text field is white, you can type messages and push to the other phone
+
 7. Double-tap on the text field to select an image
